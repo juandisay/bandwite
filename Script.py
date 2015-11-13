@@ -56,6 +56,4 @@ if __name__ == '__main__':
         networks(input_interface())
         time.sleep(1)
         os.system('clear')
-        
-#special thanks to Dream theater,Kim Kardashian, ayu tingting, sarah azhari, Duo srigala.LOL
-#license under stocking Kim Kardashian
+
